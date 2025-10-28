@@ -1,0 +1,4 @@
+#ifndef WAREHOUSEITEM_H
+#define WAREHOUSEITEM_H
+
+#endif // WAREHOUSEITEM_H
